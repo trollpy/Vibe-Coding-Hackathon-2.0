@@ -209,11 +209,6 @@ We welcome contributions! Whether you're fixing bugs, adding features, or improv
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📱 Contact
-
-- **Email**: hello@localquote.ai
-- **WhatsApp**: (+27) 71 234 5678
-- **Location**: Cape Town, South Africa
 
 ## 📄 License
 
