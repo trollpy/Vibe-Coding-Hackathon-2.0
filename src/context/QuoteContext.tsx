@@ -1,4 +1,4 @@
-// src/context/QuoteContext.tsx
+// This file defines the QuoteContext for managing quotes in a React application.
 import { createContext, useContext, useState } from "react";
 import { getQuotes, createQuote } from "../lib/api";
 

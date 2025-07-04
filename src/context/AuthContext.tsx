@@ -1,4 +1,4 @@
-// src/context/AuthContext.tsx
+// This file defines the AuthContext for managing user authentication state in a React application.
 import { createContext, useContext, useState, useEffect } from "react";
 import { login as apiLogin, register as apiRegister, logout as apiLogout } from "../lib/auth";
 
